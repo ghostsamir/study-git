@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #
-# 
-# 
+# author:xushiwei 
+# email:ghostsamir@163.com
 # 
 # 
 
