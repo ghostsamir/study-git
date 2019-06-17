@@ -2,8 +2,8 @@
 #
 # author:xushiwei 
 # email:ghostsamir@163.com
-# 
-# 
+# date:2019/06/17
+# usage: ping ip
 
 
 netip='192.168.161'
